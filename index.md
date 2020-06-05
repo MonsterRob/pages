@@ -1,1 +1,1 @@
-[pages](pages.md)
+[pages](./pages.md)
